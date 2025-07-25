@@ -1,0 +1,26 @@
+# Only for new project which was not cloned
+git init
+# after clone you do not need git init
+git clone <url>
+
+git add <file_name>
+git commit -m <comit message>
+git branch <branch_name>
+
+# Delete branch
+git branch -D <branch_name>
+
+# Switch to branch
+git checkout <branch_name>
+# Create and switch
+git checkout -b <branch_name>
+
+git push origin <branch name>
+
+git pull origin <branch_name>
+
+#Same as pull but for local branches
+git merge
+
+# update local branches and download new from server
+git fetch
