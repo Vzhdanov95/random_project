@@ -28,3 +28,4 @@ while True:
 print(result)
 
 print(friends)
+print(some_tuple)
