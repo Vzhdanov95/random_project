@@ -26,3 +26,5 @@ while True:
     result = 42
     break
 print(result)
+
+print(friends)
