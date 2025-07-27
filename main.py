@@ -29,3 +29,4 @@ print(result)
 
 print(friends)
 print(some_tuple)
+print(task_8)
