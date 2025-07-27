@@ -29,4 +29,5 @@ print(result)
 
 print(friends)
 print(some_tuple)
-print(task_8)
+print(not_change)
+print("task_8")
