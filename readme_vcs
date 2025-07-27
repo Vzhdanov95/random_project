@@ -24,3 +24,5 @@ git merge
 
 # update local branches and download new from server
 git fetch
+# Pairs our local repository with remote server repository. Server and client now connected and they are tracking our changes.
+git remote add origin https://github.com/Vzhdanov95/random_project.git
