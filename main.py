@@ -30,3 +30,5 @@ print(result)
 print(friends)
 print(some_tuple)
 print(not_change)
+print("task_8")
+
